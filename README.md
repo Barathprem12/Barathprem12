@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="50%" />
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h2 align="center">Hi 👋, I'm Software Developer BARATHPREM KS</h2>
 <h3 align="center">Building Tomorrow's Software Today</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Barathprem12&label=Profile%20views&color=0e75b6&style=flat" alt="Barathprem12" /> </p>
@@ -17,8 +17,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/barathprem12" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="barathprem12" height="30" width="40" /></a><a href="https://fb.com/Barath Prem" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="Barath Prem" height="30" width="40" /></a><a href="https://instagram.com/barathprem12" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="barathprem12" height="30" width="40" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
@@ -30,7 +30,7 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barathprem12&layout=compact&theme=" alt=Barathprem12 />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barathprem12&layout=compact&theme=2077" alt=Barathprem12 />
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Barathprem12&theme=" alt="Barathprem12" /></p>
 
@@ -40,6 +40,4 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Barathprem12&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Barathprem12&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Barathprem12&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Barathprem12&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Barathprem12&theme=2077" height="180em" />
 </div>
